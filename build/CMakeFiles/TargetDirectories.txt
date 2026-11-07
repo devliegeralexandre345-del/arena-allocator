@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/arena-allocator/build/CMakeFiles/arena_allocator.dir
+/home/ubuntu/cpp-generator/workspace/arena-allocator/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/arena-allocator/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/arena-allocator/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/arena-allocator/build/CMakeFiles/rebuild_cache.dir

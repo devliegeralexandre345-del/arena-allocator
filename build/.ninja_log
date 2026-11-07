@@ -1,0 +1,6 @@
+# ninja log v5
+1	8	0	/home/ubuntu/cpp-generator/workspace/arena-allocator/build/CMakeFiles/cmake.verify_globs	c35a2d3bb420226e
+8	251	1794010272137775455	CMakeFiles/arena_allocator.dir/src/main.cpp.o	a28653e3ec7b7cf4
+9	265	1794010272152775940	CMakeFiles/unit_tests.dir/tests/test.cpp.o	701f61b6918267c7
+251	294	1794010272180776844	arena_allocator	7e5023a0f6d0cee3
+265	309	1794010272195667372	unit_tests	a43e7a7a00835c27
